@@ -2,7 +2,6 @@
 # Script Name: win-sec-sanitizer.ps1
 # Description: Universal PowerShell Host Hygiene & DevSecOps Automated Cleanup Tool
 #              with Detailed System Audit Report Generation (.txt + Console)
-# License: MIT
 # ==============================================================================
 
 [CmdletBinding()]

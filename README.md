@@ -8,7 +8,6 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue.svg)](https://docs.microsoft.com/powershell/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20%7C%20Server-0078D6.svg)](https://microsoft.com)
 [![DevSecOps](https://img.shields.io/badge/DevSecOps-Audit%20Report-green.svg)](#-informe-detallado-y-auditor%C3%ADa-txt--consola)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 ---
 
